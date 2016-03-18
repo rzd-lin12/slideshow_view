@@ -2,14 +2,14 @@
 可轮询viewpager
 ##该类中的一些方法
 ### 
-   /**
+    /**
      * 加载图片资源
      *
      * @param imageUrls 图片地址
      */
     public void setImageUrls(String[] imageUrls)
     
-   /**
+    /**
      * 设置没有选中时候的小圆点
      *
      * @param imageRes 图片的id
